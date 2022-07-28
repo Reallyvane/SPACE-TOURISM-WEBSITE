@@ -89,7 +89,6 @@ body {
   line-height: 1.5;
   min-height: 100vh;
   overflow-x: hidden;
-  overflow-y: hidden;
 }
 
 /* make images easier to work with */
