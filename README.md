@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Vercel]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-space-tourism-site-using-gridflexjs-LEdS-_eOEA)
+- Live Site URL: [Vercel](https://space-tourism-website-nesdevs.vercel.app/technology.html)
 
 ## My process
 
